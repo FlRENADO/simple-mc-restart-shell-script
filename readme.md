@@ -1,4 +1,5 @@
-#minecraft-automation-scripts (simple edition)
+minecraft-automation-scripts (simple edition)
+=============================================
 
 scripts to start a Minecraft server and restart it automatically
 
